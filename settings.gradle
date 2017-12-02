@@ -1,0 +1,1 @@
+include ':app', ':slidingmenu', ':multi-image-selector'

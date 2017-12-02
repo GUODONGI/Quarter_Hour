@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:id="@+id/iv_statin_img"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_launcher_round"
+        android:layout_width="@dimen/x250"
+        android:layout_height="100dp" />
+
+</RelativeLayout>
