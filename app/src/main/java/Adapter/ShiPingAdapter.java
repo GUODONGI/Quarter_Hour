@@ -59,7 +59,6 @@ public class ShiPingAdapter extends XRecyclerView.Adapter<ShiPingAdapter.ViewHlo
             imageView= itemView.findViewById(R.id.masonry_item_img );
             textView= itemView.findViewById(R.id.masonry_item_title);
 
-            ///ffakjfajfkajfakfj
 
         }
     }
